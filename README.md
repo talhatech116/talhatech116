@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **talhatech116/talhatech116** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -30,6 +28,6 @@ Here are some ideas to get you started:
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/talha-sahni)
 ![](https://komarev.com/ghpvc/?username=talhatech116&style=for-the-badge)
 <br><br>
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=talhatech116&theme=transparent)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=talhatech116&theme=radical)](https://git.io/streak-stats)
 
 </div>
