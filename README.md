@@ -30,7 +30,6 @@ Here are some ideas to get you started:
 <br><br>
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=talhatech116&theme=gruvbox)](https://git.io/streak-stats)
 
-[![Website](https://img.shields.io/badge/website-%23FF6F61.svg?style=for-the-badge&logo=google-chrome&logoColor=white)](https://growthandshine.com/)
 
 </div>
 
