@@ -1,20 +1,3 @@
-<!--
-**talhatech116/talhatech116** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-
-
 <div align="center">
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=25&pause=2&color=F7AD7D&background=FFF5EC00&center=true&random=false&width=500&lines=Talha+Sahni;Laravel+Developer;Flutter+Developer;Custom+Software+Developer;A.P.I+Developer)](https://git.io/typing-svg)
@@ -28,6 +11,10 @@ Here are some ideas to get you started:
 ![](https://komarev.com/ghpvc/?username=talhatech116&style=for-the-badge)
 <br><br>
 
+<!-- 🔥 GitHub Streak Stats -->
+[![GitHub Streak](https://streak-stats.demolab.com?user=talhatech116&theme=radical&hide_border=true&border_radius=10)](https://git.io/streak-stats)
+
 </div>
+
 
 
