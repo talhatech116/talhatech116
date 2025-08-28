@@ -10,9 +10,6 @@
 ![](https://komarev.com/ghpvc/?username=talhatech116&style=for-the-badge)
 <br><br>
 
-<!-- 🔥 GitHub Streak Stats -->
-[![GitHub Streak](https://streak-stats.demolab.com?user=talhatech116&theme=radical&hide_border=true&border_radius=10)](https://git.io/streak-stats)
-
 </div>
 
 
