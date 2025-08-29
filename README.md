@@ -4,7 +4,7 @@
 
 
 <p align="center">
-    <img src="https://skillicons.dev/icons?i=git,github,vscode,phpstorm,html,css,js,bootstrap,react,php,laravel,vue,postman,docker,flutter,firebase" />
+    <img src="https://skillicons.dev/icons?i=git,github,vscode,phpstorm,html,css,js,bootstrap,react,php,laravel,postman,docker,flutter,firebase" />
 </p>
 <br>
 
